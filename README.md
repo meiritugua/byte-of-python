@@ -275,24 +275,24 @@
 另请注意：
 
 - 请 *不要* 销售本书的电子或印刷拷贝，除非你明确声明这些拷贝副本并 *非* 来自本书的原作者。
-- 在分发时 *务必* 在文档的介绍性描述或前页、头版中提供回溯至本书原书 {{ book.officialUrl }} 以及本译本 {{book.sctransUrl}} 的链接，并明确指出本书之原文与译本可在上述链接处获取。
+- 在分发时 *务必* 在文档的介绍性描述或前页、头版中提供回溯至本书原书 http://python.swaroopch.com/ 以及本译本 {{book.sctransUrl}} 的链接，并明确指出本书之原文与译本可在上述链接处获取。
 - 除非另有声明，本书所提供的所有代码与脚本均采用 [3-clause BSD License](http://www.opensource.org/licenses/bsd-license.php) 进行授权。
 
 ## 现在就开始阅读
 
-你可以通过 {{ book.officialUrl }} 在线阅读本书英文原版。
+你可以通过 http://python.swaroopch.com/ 在线阅读本书英文原版。
 
-本中文译版可通过 {{ book.sctransUrl }} 在线阅读。
+本中文译版可通过 https://bop.molun.net 在线阅读。
 
 ## 购买本书
 
-本书英文原版的印刷硬拷贝可在 {{ book.buyBookUrl }} 购得，用以获得离线阅读体验，同时也可向本书提供支持以推进后续的开发与改进。
+本书英文原版的印刷硬拷贝可在 http://www.swaroopch.com/buybook/ 购得，用以获得离线阅读体验，同时也可向本书提供支持以推进后续的开发与改进。
 
 本中文译版**没有**发行或许可发行任何印刷硬拷贝。但是其他商业或非商业组织可以在遵守授权协议的前提下自行印刷并发行本书的硬拷贝，这些行为并不需要得到原作者和译者的许可。译者不会因为这些印刷或发行行为获益，亦不对这些未经专门授权的印刷或硬拷贝版本的准确性负责。
 
 ## 下载
 
-你可以访问 {{ book.transdownloadurl }} 以获得本书以下格式的下载：
+你可以访问 https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/ 以获得本书以下格式的下载：
 
 - [PDF （可在电脑上阅读）](https://www.gitbook.com/download/pdf/book/lenkimo/byte-of-python-chinese-edition)
 - [EPUB （可在 iPhone、iPad、电子书阅读器上阅读）](https://www.gitbook.com/download/epub/book/lenkimo/byte-of-python-chinese-edition)
@@ -300,9 +300,9 @@
 
 上述下载链接由 GitBook 提供。本书在未来可能会有些许修订，GitBook 将在修订提交后自动生成最新版本。如果你打算下载一份电子书版用来离线阅读，建议隔一段时间后回来看看是否有新版。
 
-本书采用 Markdown 进行写作。你可以访问 {{ book.transsourceurl }} 以获得本书的源代码内容（用以提交建议、更正或进行重发布）。
+本书采用 Markdown 进行写作。你可以访问 https://github.com/LenKiMo/byte-of-python 以获得本书的源代码内容（用以提交建议、更正或进行重发布）。
 
-本书英文原版可以在 {{ book.officialUrl }} 在线浏览，其源代码内容可以在 {{ book.sourceUrl }} 获得。
+本书英文原版可以在 http://python.swaroopch.com/ 在线浏览，其源代码内容可以在 https://github.com/swaroopch/byte-of-python 获得。
 
 ## 在你使用的语言下阅读本书
 
