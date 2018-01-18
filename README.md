@@ -1,5 +1,7 @@
 # 简明 Python 教程
 
+> 本开源书 forked from [简明 Python 教程](https://github.com/LenKiMo/byte-of-python)，作者为 [LenKiMo](https://github.com/LenKiMo)，欢迎大家 star 原作者的 [repo](https://github.com/LenKiMo/byte-of-python)，以便获得最新更新，谢谢！
+
 《A Byte of Python》是一本由 **Swaroop C H** 编写，旨在于介绍如何使用 Python 语言进行编程的自由图书。它以教材与指南的形式为入门者介绍 Python 语言。如果你对电脑知识的了解仅限于如何保存文本文件的话，那这本书就是为你准备的。
 
 2005 年，**沈洁元**将本书的 1.20 版引进中国，并完成了全本翻译，将本书的译名定为《简明 Python 教程》。2017年，**漠伦**基于原书 4.0 版重新翻译，制作了本版全新译本，并沿用同样的译名。
